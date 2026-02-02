@@ -1,0 +1,5 @@
+Number of students in a group
+Number of prompts allowed per day
+A <id> <prompt-count> <dependencies> <terminating-symbol>
+
+Number of days allowed (m): Total possible sequences : 0
