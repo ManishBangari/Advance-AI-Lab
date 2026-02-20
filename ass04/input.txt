@@ -1,0 +1,7 @@
+% number of ports - K
+K 2
+% Price for ports per time unit
+P 44 40
+% vehicle requests: id arrival-time departure-time charge-time
+V 1 25 70 10
+V 2 18 42 19
